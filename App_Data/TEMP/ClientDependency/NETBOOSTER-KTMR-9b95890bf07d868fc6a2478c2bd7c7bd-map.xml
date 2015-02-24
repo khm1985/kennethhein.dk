@@ -351,4 +351,23 @@
       <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
     </files>
   </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Users\ktmr\Documents\My Web Sites\UmbracoCms.7.2.2\kennethhein.dk\kennethhein.dk\App_Data\TEMP\ClientDependency\958687557_4c88a5b3603b4e0ba56d7cf0f71f835b.cdJ" compression="gzip" version="958687557">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvR2VuZXJpY1Byb3BlcnR5L2dlbmVyaWNwcm9wZXJ0eS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RkLmNzczs" file="C:\Users\ktmr\Documents\My Web Sites\UmbracoCms.7.2.2\kennethhein.dk\kennethhein.dk\App_Data\TEMP\ClientDependency\958687557_9cd3946889954ccd80ad18b1bf1d0ee0.cdC" compression="gzip" version="958687557">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.css" />
+      <file name="/umbraco_client/ui/dd.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L0VkaXRvcnMvRWRpdENvbnRlbnRUeXBlLmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuZGQuanM7" file="C:\Users\ktmr\Documents\My Web Sites\UmbracoCms.7.2.2\kennethhein.dk\kennethhein.dk\App_Data\TEMP\ClientDependency\958687557_f1cefa182a24426dbf24f8bb8999677d.cdJ" compression="gzip" version="958687557">
+    <files>
+      <file name="/umbraco_client/GenericProperty/genericproperty.js" />
+      <file name="/umbraco_client/Editors/EditContentType.js" />
+      <file name="/umbraco_client/ui/jquery.dd.js" />
+    </files>
+  </item>
 </map>
