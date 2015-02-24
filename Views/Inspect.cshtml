@@ -1,0 +1,21 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+}
+<html>
+    <head>
+        <title>Inspect: &quot;@(Model.Content.Name)&quot; (@Model.Content.Id)</title>
+    </head>
+    <body>
+        @*
+            Inspect the current content element in its strongly typed version.
+            If you'd rather inspect the dynamic content element, call Inspect.Entity(CurrentPage) instead.
+        *@
+        @Inspect.Entity(Model.Content)
+
+        @*
+            jQuery is necessary for Inspect to work.
+        *@
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    </body>
+</html>
